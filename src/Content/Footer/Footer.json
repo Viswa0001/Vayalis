@@ -1,0 +1,34 @@
+{
+  "logo": "VAYALIS",
+  "address": "78 Avenue Des Champs-Élysées, 75008 Paris",
+  "copyright": "Copyright: © 2024",
+  "name": "Agence Vayalis",
+  "rights": " All rights reserved.",
+  "link": [
+    {
+      "id": 1,
+      "link1": "Web agency",
+      "path": "/site-creation"
+    },
+    {
+      "id": 2,
+      "link1": "Our agency",
+      "path": "/Maintanence"
+    },
+    {
+      "id": 3,
+      "link1": "Legal Notice",
+      "path": "/achievement"
+    },
+    {
+      "id": 4,
+      "link1": "Cookies",
+      "path": "/webagency"
+    },
+    {
+      "id": 5,
+      "link1": "Contact",
+      "path": "/startup"
+    }
+  ]
+}

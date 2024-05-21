@@ -1,0 +1,64 @@
+{
+  "ButStill": [
+    {
+      "id": 1,
+      "image": "/Assets/Home/ButStill/performance.svg",
+      "title": "Performance Audit"
+    },
+    {
+      "id": 2,
+      "image": "/Assets/Home/ButStill/Custom.svg",
+      "title": "Custom extension"
+    },
+    {
+      "id": 3,
+      "image": "/Assets/Home/ButStill/EcommereceOptimization.svg",
+      "title": "E-Commerece Optimization"
+    },
+    {
+      "id": 4,
+      "image": "/Assets/Home/ButStill/ServerMigration.svg",
+      "title": "Server migration"
+    },
+    {
+      "id": 5,
+      "image": "/Assets/Home/ButStill/siteREdesign.svg",
+      "title": "Site redesign"
+    },
+    {
+      "id": 6,
+      "image": "/Assets/Home/ButStill/OptimisationOncomputer.svg",
+      "title": "Optimization on Computer"
+    },
+    {
+      "id": 7,
+      "image": "/Assets/Home/ButStill/Optimisation-mobile.svg",
+      "title": "Optimization on Mobile"
+    },
+    {
+      "id": 8,
+      "image": "/Assets/Home/ButStill/seo.svg",
+      "title": "Better SEO"
+    },
+    {
+      "id": 9,
+      "image": "/Assets/Home/ButStill/cyber-securite.svg",
+      "title": "Advanced cybersecurity"
+    },
+    {
+      "id": 10,
+      "image": "/Assets/Home/ButStill/MeshApi.svg",
+      "title": "Mesh API Third-party software"
+    },
+    {
+      "id": 11,
+      "image": "/Assets/Home/ButStill/Error.svg",
+      "title": "Error Resolution"
+    },
+    {
+      "id": 12,
+      "image": "/Assets/Home/ButStill/Checking.svg",
+      "title": "Checking broken lines"
+    }
+  ]
+}

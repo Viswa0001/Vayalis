@@ -1,0 +1,31 @@
+{
+  "heading": "ANY QUESTIONS? WE ANSWER IT!",
+  "subHeading": "FAQ: Your Questions, Our Answers",
+  "faq": [
+    {
+      "id": 1,
+      "question": "What WordPress Magic Can We Create Together?",
+      "answer": "From dazzling showcase sites to robust online stores, from vibrant blogs to sparkling portfolios, and much more… There are no limits to your imagination!"
+    },
+    {
+      "id": 2,
+      "question": "How to Initiate Our Epic Collaboration?",
+      "answer": "One click is enough! Express your visions and challenges directly via our contact form ."
+    },
+    {
+      "id": 3,
+      "question": "Your Investment in Digital?",
+      "answer": "Prices vary greatly depending on the project. But to give you an idea, for a showcase site, the price is at least €2990 and an e-commerce site €3990."
+    },
+    {
+      "id": 4,
+      "question": "The Client of Our Dreams?",
+      "answer": "From dazzling showcase sites to robust online stores, from vibrant blogs to sparkling portfolios, and much more… There are no limits to your imagination!"
+    },
+    {
+      "id": 5,
+      "question": "Need an Astronomical Quote?",
+      "answer": "Share the world of your project via the contact form . Concept exploration, development, or launch, we adjust our rockets to your celestial ambitions!"
+    }
+  ]
+}

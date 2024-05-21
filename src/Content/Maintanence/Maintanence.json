@@ -1,0 +1,63 @@
+{
+  "Paragraph": "Whether your site was designed by us or not, benefit from flawless WordPress maintenance. Our unique WordPress maintenance plan suits everyone, whether you are a craftsman, independent or business, offering quality maintenance at a price that respects your budget. Benefit from a high-performance and secure website, allowing you to concentrate fully on the development of your activities.",
+  "title": "What does our WordPress Maintenance include?",
+  "subTitle": "Don't leave your WordPress site unattended. Opt for our maintenance and ensure the performance, security and sustainability of your site.",
+  "Maintanence": [
+    {
+      "id": 1,
+      "description": "Continuous updates : Make sure your site is always up to date with the latest version of WordPress, themes and plugins, avoiding any malfunctions."
+    },
+    {
+      "id": 2,
+      "description": "Regular backups : Protect your data with complete backups of your site, including source files, database, images and media."
+    },
+    {
+      "id": 3,
+      "description": "Enhanced security : Prevent attacks with regular updates and the installation of a specific security plugin."
+    },
+    {
+      "id": 4,
+      "description": "Increased performance : A well-maintained site means a faster, better referenced and more compatible site."
+    },
+    {
+      "id": 5,
+      "description": "Direct technical support : When faced with a bug or crash, our team is your first resort for a quick and efficient resolution."
+    },
+    {
+      "id": 6,
+      "description": "Broken link repair : Avoid negative impacts on your SEO and user experience with our broken link detection and repair tool."
+    }
+  ],
+  "icons": [
+    {
+      "id": 1,
+      "icon": "/Assets/Maintanence/wordpressUpdates.svg",
+      "title": "WordPress Updates"
+    },
+    {
+      "id": 2,
+      "icon": "/Assets/Maintanence/TechnincalAssistance.svg",
+      "title": "Technical assistance"
+    },
+    {
+      "id": 3,
+      "icon": "/Assets/Maintanence/plugins.svg",
+      "title": "Update Plugins"
+    },
+    {
+      "id": 4,
+      "icon": "/Assets/Maintanence/backup.svg",
+      "title": "Continuous Backups"
+    },
+    {
+      "id": 5,
+      "icon": "/Assets/Maintanence/security.svg",
+      "title": "Reinforced Security"
+    },
+    {
+      "id": 6,
+      "icon": "/Assets/Maintanence/brokenLines.svg",
+      "title": "Check Broken Links"
+    }
+  ]
+}

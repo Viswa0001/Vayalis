@@ -1,0 +1,63 @@
+{
+  "heading": "OUR DAZZLING ACHIEVEMENTS",
+  "subHeading": "Explore Our WordPress Masterpieces",
+  "descrip": "Explore the panorama of our WordPress projects, tailor-made works that stand out for their technical finesse and supreme speed. Let yourself be captivated by creations that shine with their optimizations and performances, where every detail reflects our quest for excellence.",
+  "achievements": [
+    {
+      "id": 1,
+      "img": "/Assets/Achievements/Lpl.webp",
+      "title": "LPL",
+      "description": "Interactions between light and matter"
+    },
+    {
+      "id": 2,
+      "img": "/Assets/Achievements/unique.webp",
+      "title": "Unique",
+      "description": "Specialist in electrically assisted bicycles"
+    },
+    {
+      "id": 3,
+      "img": "/Assets/Achievements/mms.webp",
+      "title": "MMMS",
+      "description": "Nutrition advice and fortified recipes"
+    },
+    {
+      "id": 4,
+      "img": "/Assets/Achievements/nutrition.webp",
+      "title": "Nutrition & Oncology",
+      "description": "Health benefits of nutrition"
+    },
+    {
+      "id": 5,
+      "img": "/Assets/Achievements/isotherm.webp",
+      "title": "Isotherm Aura",
+      "description": "Specialist in energy renovation"
+    },
+    {
+      "id": 6,
+      "img": "/Assets/Achievements/ride.webp",
+      "title": "Riide",
+      "description": "Bicycle equipment manufacturer"
+    },
+    {
+      "id": 7,
+      "img": "/Assets/Achievements/sesan.webp",
+      "title": "sesan",
+      "description": "Training e-Health"
+    },
+
+    {
+      "id": 8,
+      "img": "/Assets/Achievements/ibps.webp",
+      "title": "IBS Group",
+      "description": "Sale of medical equipment"
+    },
+
+    {
+      "id": 9,
+      "img": "/Assets/Achievements/dynasti.webp",
+      "title": "Dynasty",
+      "description": "A Moroccan hammam in Geneva"
+    }
+  ]
+}

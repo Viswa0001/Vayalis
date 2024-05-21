@@ -1,0 +1,43 @@
+{
+  "title": "GET STARTED WITH A SITE READY TO SHINE?",
+  "subTitle": "Discover our WordPress website creation solutions",
+  "descp": "Immerse yourself in the Vayalis universe, where our know-how transforms your vision into spectacular WordPress sites, designed to captivate. Embark on an unparalleled digital adventure!",
+  "solution": [
+    {
+      "id": 1,
+      "img": "/Assets/SiteCreation/rocket.svg",
+      "heading": "Supersonic Optimization",
+      "description": "Each carefully written line of code transforms your site into a flash of performance. Google will appreciate it, and so will your visitors. Faster, more satisfying."
+    },
+    {
+      "id": 2,
+      "img": "/Assets/SiteCreation/google.svg",
+      "heading": "Powerful SEO",
+      "description": "Shine on the web thanks to powerful SEO. Our WordPress sites are beacons of visibility, ensuring a significant and lasting digital footprint."
+    },
+    {
+      "id": 3,
+      "img": "/Assets/SiteCreation/code.svg",
+      "heading": "Custom Theme",
+      "description": "For each project, a unique theme. We refine the code and adopt best practices to guarantee excellence and uniqueness to your site."
+    },
+    {
+      "id": 4,
+      "img": "/Assets/SiteCreation/Adapatablity.svg",
+      "heading": "Total Adaptability",
+      "description": "With mobile ascension, we ensure your site excels on all screens. Impeccable flexibility to capture every visitor."
+    },
+    {
+      "id": 5,
+      "img": "/Assets/SiteCreation/security.svg",
+      "heading": "Armored Security",
+      "description": "Faced with the unexpected, be calm. Our comprehensive backups watch over your site, ready to intervene in the event of a threat. Tranquility and security assured."
+    },
+    {
+      "id": 6,
+      "img": "/Assets/SiteCreation/ExclusiveBlocks.svg",
+      "heading": "Exclusive Blocks",
+      "description": "With Gutenberg, we design unique blocks for your site. Goodbye to the superfluous, hello to quality and efficiency, for an exceptional website."
+    }
+  ]
+}

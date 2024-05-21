@@ -1,0 +1,31 @@
+{
+  "heading": "YOUR QUESTIONS, OUR CLARIFICATIONS",
+  "subHeading": "FAQ: The essentials for your requests",
+  "faq": [
+    {
+      "id": 1,
+      "question": "Launching Your Project: How Does It Work?",
+      "answer": "Want to get started? Nothing could be easier: choose your day and time for a meeting above by describing your vision and objectives."
+    },
+    {
+      "id": 2,
+      "question": "Pricing Your Project: What to Expect?",
+      "answer": "A minimum investment of €2,990 is required for a tailor-made website, guaranteeing excellence and personalization. For WordPress maintenance, opt for our exclusive annual plan, covering everything from updating to securing your site. Our prices will fit perfectly to the scale and aspirations of your project"
+    },
+    {
+      "id": 3,
+      "question": "The Ideal Partner: Who Are We Looking for?",
+      "answer": "We are looking for committed partners, aware of the importance of close collaboration. A client with defined goals is a client who propels the project towards success."
+    },
+    {
+      "id": 4,
+      "question": "Project Estimation: What Do You Need to Get Started?",
+      "answer": "Project Estimation: What Do You Need to Get Started?"
+    },
+    {
+      "id": 5,
+      "question": "Our Areas of Excellence: Where Do We Shine?",
+      "answer": "From the banking sector to education, including eCommerce, we will excel in the digital transformation of your business. We ideally collaborate with the visionaries of your company: CEO, CMO, CTO, Product Managers…"
+    }
+  ]
+}

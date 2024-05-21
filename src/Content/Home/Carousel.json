@@ -1,0 +1,42 @@
+{
+  "heading": "DESIGN YOUR VISION, TOGETHER!",
+  "description": "Let's turn your bold ideas into impressive realities. Contact us today to begin this journey to innovation and excellence.",
+  "button2": "Start a project!",
+  "slider": [
+    {
+      "id": 1,
+      "title": "MMMS",
+      "subTitle": "Nutrition advice and fortified recipes",
+      "button": "See the project",
+      "img": "/Assets/Home/Slide1.webp"
+    },
+    {
+      "id": 2,
+      "title": "Isotherm Aura",
+      "subTitle": "Specialist in energy renovation",
+      "button": "See the project",
+      "img": "/Assets/Home/Slide2.webp"
+    },
+    {
+      "id": 3,
+      "title": "Dynasty",
+      "subTitle": "A Moroccan hammam in Geneva",
+      "button": "See the project",
+      "img": "/Assets/Home/Slide3.webp"
+    },
+    {
+      "id": 4,
+      "title": "Unique",
+      "subTitle": "Specialist in electrically assisted bicycles",
+      "button": "See the project",
+      "img": "/Assets/Home/Slide4.webp"
+    },
+    {
+      "id": 5,
+      "title": "IBS Group",
+      "subTitle": "Sale of medical equipment",
+      "button": "See the project",
+      "img": "/Assets/Home/Slide5.webp"
+    }
+  ]
+}

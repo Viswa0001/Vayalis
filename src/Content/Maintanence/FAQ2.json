@@ -1,0 +1,26 @@
+{
+  "heading": "ADDITIONAL QUESTIONS?",
+  "subHeading": "FAQ: Your Common Questions",
+  "faq": [
+    {
+      "id": 1,
+      "question": "I don't have a WordPress site yet. Can you create one for me?",
+      "answer": "Absolutely, creating WordPress sites is our specialty. We are committed to offering optimized, well-referenced and secure sites, because the quality of our code is a priority for us."
+    },
+    {
+      "id": 2,
+      "question": "Can you maintain any WordPress site?",
+      "answer": "Quite ! Maintenance is essential to ensure the optimal performance of your site, avoiding slowdowns, malfunctions, or security risks. A site that is not updated becomes vulnerable. This is why we monitor every aspect of your site's security, make the necessary updates and promptly correct any bugs identified. From verification to optimization, we do everything to keep your site in excellent condition."
+    },
+    {
+      "id": 3,
+      "question": "Why update your WordPress site?",
+      "answer": "WordPress is a constantly evolving software. To ensure optimal performance, it is crucial to keep your site up to date. This not only allows you to benefit from the latest features and improvements but also strengthens the security of your site."
+    },
+    {
+      "id": 4,
+      "question": "I already take care of maintenance. Can you just help me with a problem?",
+      "answer": "I already take care of maintenance. Can you just help me with a problem?"
+    }
+  ]
+}

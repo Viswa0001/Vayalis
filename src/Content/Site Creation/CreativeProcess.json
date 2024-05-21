@@ -1,0 +1,42 @@
+{
+  "heading": "EACH PROJECT, A UNIQUE ODYSSEY",
+  "subHeading": "Our Tailored Creative Process",
+  "process": [
+    {
+      "id": 1,
+      "color": "#D1CCFF",
+      "title": "Initial Dialogue",
+      "description": "Let's immerse ourselves in your vision in an open conversation. This is the opportunity to seize your aspirations, so that together we can outline the broad outlines of your digital project. Precise advice and tailor-made strategies will be offered to you from our first discussions."
+    },
+    {
+      "id": 2,
+      "color": "#FFF0BD",
+      "title": "Exploration and Quote",
+      "description": "We dive into the heart of your project, drawing up a detailed action plan that highlights the issues and objectives. A tailor-made quote will give you perfect clarity on the scale, costs and key stages of this adventure."
+    },
+    {
+      "id": 3,
+      "color": "#FFDAD3",
+      "title": "Development and Review",
+      "description": "Creation takes shape before your eyes. We transform our shared vision into a tangible draft, ready to be refined according to your feedback, so that every detail resonates with your expectations."
+    },
+    {
+      "id": 4,
+      "color": "#FDCBFF",
+      "title": "Construction and Testing in Preproduction",
+      "description": "Your site comes to life on our servers, where it is scrutinized and tested from every angle. This crucial step ensures a flawless performance before the big reveal."
+    },
+    {
+      "id": 5,
+      "color": "#FFCCCC",
+      "title": "Highlighting Your Project",
+      "description": "The long-awaited moment: your project launches onto the web. We guide you through your site's features in a detailed session, equipping you to confidently navigate your new digital space."
+    },
+    {
+      "id": 6,
+      "color": "#FEEDD7",
+      "title": "Ongoing Support",
+      "description": "After the successful launch, we will not let you down, rest assured, you will benefit from WordPress maintenance and even after the big leap, our team remains by your side. Benefit from rigorous maintenance and responsive support so that your site continues to shine and evolve according to your ambitions."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "BREATHTAKING PERFORMANCE",
+  "subTitle": "Optimized Excellence",
+  "descp": "Our pride ? Scores around 95/100 on Google Page Insight for the following aspects. Curious ? Test our site and see for yourself.",
+  "button": "Request a free audit!",
+  "performance": [
+    {
+      "id": 1,
+      "img": "/Assets/SiteCreation/speed.svg",
+      "heading": "Lightning Speed",
+      "description": "Dazzling speed. Your site won't just load quickly; it will almost anticipate your clicks."
+    },
+    {
+      "id": 2,
+      "img": "/Assets/SiteCreation/accessibility.svg",
+      "heading": "Web accessibility",
+      "description": "No barriers. Your site is a wide open door, welcoming every visitor with ease."
+    },
+    {
+      "id": 3,
+      "img": "/Assets/SiteCreation/coding.svg",
+      "heading": "Master Coding",
+      "description": "Irrefutable proof of our technical mastery and the superior quality of your site."
+    },
+    {
+      "id": 4,
+      "img": "/Assets/SiteCreation/SEO.svg",
+      "heading": "Advanced WordPress SEO",
+      "description": "The essential pillar to stand out on the web. With us, reach the heights of natural."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "FIND OUT WHAT OUR CUSTOMERS SAY ABOUT US",
+  "Heading": "Echoes from our Customers",
+  "reviews": [
+    {
+      "id": 1,
+      "description": "After a meeting to discuss our needs for Dynastie, Nicolas was very attentive and was able to transcribe our vision in order to create a unique site that embodies elegance, well-being and luxury. The site combines refined aesthetics and functionality, offering an exceptional user experience to highlight Dynastie's high-end services. Don't hesitate to trust them.",
+      "name": "Maria",
+      "company": "Dynasty"
+    },
+    {
+      "id": 2,
+      "description": "Working with Vayalis to create our website was an eye-opening experience. As energy renovation specialists, it was crucial for us to have a site that effectively communicates our expertise and values. They brilliantly rose to this challenge, designing an intuitive, informative and visually appealing site. We recommend them without hesitation!",
+      "name": "Mahmoud",
+      "company": "Isotherm Aura"
+    },
+    {
+      "id": 3,
+      "description": "I had the privilege of collaborating with Vayalis on the design of our website. They were able to capture the essence of our brand and translate our passion for cycling into an eCommerce platform that is both aesthetic and functional. Thanks to their expertise and dedication, our site perfectly reflects the quality and innovation of our products.",
+      "name": "Caroline",
+      "company": "Unique"
+    },
+    {
+      "id": 4,
+      "description": "I had the pleasure of working with Nicolas, to whom I entrusted the responsibility of resolving the problems on my site and he did so in record time. Very competent, very rigorous and was able to quickly find the causes of the malfunction of our application. For my part, I recommend it to those who have problems or who wish to create their sites and applications using Nicolas.",
+      "name": "Basil",
+      "company": "IBS Group"
+    },
+    {
+      "id": 5,
+      "description": "I worked with Nicolas for years, I took over the management of OceanWP, Nicolas redid our site and offered beautiful demos for our clients so that they could launch their sites in minutes. Always listens to his customers and responds quickly to resolve problems, I highly recommend him.",
+      "name": "Lior",
+      "company": "OceanWP"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Expert Guidance from A to Z",
+  "subTitle": "From ideation to ongoing maintenance, we are at your side. Take advantage of a post-delivery video session to easily navigate your new web space.",
+  "img": "/Assets/Home/Laptop.webp",
+  "button": "see other benifits",
+  "updates": [
+    {
+      "id": 1,
+      "icon": "/Assets/Home/Impeccable.svg",
+      "heading": "Impeccable updates",
+      "description": "Your site remains impeccable with up-to-date WordPress, without the slightest hiccup."
+    },
+    {
+      "id": 2,
+      "icon": "/Assets/Home/StrongBackup.svg",
+      "heading": "Strong Backups",
+      "description": "Rely on our reliable backups for complete peace of mind."
+    },
+    {
+      "id": 3,
+      "icon": "/Assets/Home/FierceCyberProtection.svg",
+      "heading": "Fierce Cyber Protection",
+      "description": "Your site remains impeccable with up-to-date WordPress, without the slightest hiccup."
+    },
+    {
+      "id": 4,
+      "icon": "/Assets/Home/OndemandSupport.svg",
+      "heading": "On-demand support",
+      "description": "Problem or question? Our responsive team is there for you."
+    }
+  ]
+}
